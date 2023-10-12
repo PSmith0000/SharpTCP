@@ -1,0 +1,9 @@
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\obj\Debug\SharpTCP.csproj.AssemblyReference.cache
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\obj\Debug\SharpTCP.csproj.CoreCompileInputs.cache
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\bin\Debug\SharpTCP.dll
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\bin\Debug\SharpTCP.pdb
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\obj\Debug\SharpTCP.csproj.CopyComplete
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\obj\Debug\SharpTCP.dll
+C:\Users\prest\source\repos\SharpTCP\SharpTCP\obj\Debug\SharpTCP.pdb
