@@ -50,6 +50,22 @@ public static void Receive() {
  Console.WriteLine($"PacketType: " + h.Item2);
  Console.WriteLine($"{h.Item1.Username}, {h.Item1.MachineName}, DesKey: {h.Item1.DesKey}");
 }
+
+public class Handshake { 
+
+    public Handshake(string Key) {
+       this.DesKey = Key;
+    }
+
+    [JsonProperty]
+    public string MachineName = Environment.MachineName;
+
+    [JsonProperty]
+    public string Username = Environment.UserName;
+
+    [JsonProperty]
+    public string DesKey { get; set; }
+}
 ```
 
 
