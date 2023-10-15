@@ -41,7 +41,7 @@ public static void Send() {
  Key = Des.GenerateKey();
  var s = new Handshake(Key).ToJson();
  var data = Encoding.Default.GetBytes(s).ToList();
- data.Insert(0, 0); //header, clientinfo
+ data.Insert(0, 0); //header, clientinfo (packet identifier)
  client.SendPacket(new MemoryStream(data.ToArray()));         
 }
 
